@@ -1,3 +1,4 @@
+
 USE sql_invoicing;
 
 CREATE VIEW sales_by_client AS
